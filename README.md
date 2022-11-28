@@ -1,6 +1,6 @@
 <h3 align="center">Android and IOS developer</h3>
 
-- 💬 Ask me about **Android,Swift**
+- 💬 Ask me about **Android and IOS**
 
 - 📫 How to reach me **mjsaycon.official@gmail.com**
 
